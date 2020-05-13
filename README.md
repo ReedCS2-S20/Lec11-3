@@ -1,5 +1,12 @@
 # Lecture 11-3 SMART POINTERS
 
+`Slide 01` [Part 01. Intro to Smart Pointers](https://ensemble.reed.edu/Watch/b2SGr73Z) *02m30s*  
+`Slide 03` [Part 02. `mutable` in Lambdas](https://ensemble.reed.edu/Watch/z7K4QdEe) *04m15s*  
+`Slide 12` [Part 03. Pointer Bugs](https://ensemble.reed.edu/Watch/Hr35LoJa) *08m15s*  
+`Slide 20` [Part 04. Reasoning About Resources]() *11m45s*  
+`Slide 30` [Part 05. Automatic Garbage Collection](https://ensemble.reed.edu/Watch/e3Q4Hcq2) *12m00s*  
+`Slide 59` [Part 06. `shared_ptr` Preview](https://ensemble.reed.edu/Watch/o6JLs95X) *14m00s*  
+
 There is the usual slide deck here. It illustrates two versions of a
 `Box` class, once with bugs, and another with the bugs fixed using
 `std::shared_ptr<int>`. It also shows these used in a singly linked
